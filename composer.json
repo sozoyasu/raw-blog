@@ -1,0 +1,17 @@
+{
+    "name": "sozoyasu/raw-blog",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sozoyasu\\RawBlog\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sozoyasu",
+            "email": "masterdmx3325@gmail.com"
+        }
+    ],
+    "require": {}
+}
