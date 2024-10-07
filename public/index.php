@@ -1,3 +1,4 @@
 <?php
 
-echo "Hello World! 3";
+//include '../view/layout.php';
+include '../view/layout.php';

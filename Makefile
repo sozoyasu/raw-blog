@@ -9,3 +9,6 @@ php:
 
 node:
 	docker compose exec node sh
+
+tailwind:
+	npx tailwindcss -i ./frontend/css/input.css -o ./public/assets/css/app.css --watch
